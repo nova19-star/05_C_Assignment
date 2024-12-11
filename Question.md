@@ -1,5 +1,5 @@
-Lab Date: 11.12.24
-
+05_C_Assignment
+Assignment Date: 11.12.2024
 Questions:
 1. Write a C program to find out the area of triangle.
 2. Write a C program to check whether a number is prefect or not
